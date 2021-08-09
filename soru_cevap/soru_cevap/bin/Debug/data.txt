@@ -1,0 +1,3 @@
+İstanbul,şehir
+Fasulye,bitki
+Ankara,şehir
